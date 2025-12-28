@@ -1,4 +1,4 @@
-# fetch-secrets (Spring Boot + AWS Secrets Manager)
+## Aws-fetch-secrets (Spring Boot + AWS Secrets Manager)
 
 This is a small Spring Boot project that demonstrates loading configuration from **AWS Secrets Manager** using **Spring Cloud AWS** (`spring.config.import=aws-secretsmanager:...`) and binding it into typed config (`@ConfigurationProperties`).
 
